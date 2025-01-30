@@ -2,5 +2,5 @@ package com.neojou
 
 
 fun main() {
-    Day2()
+    Day3()
 }
